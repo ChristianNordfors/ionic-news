@@ -2,6 +2,6 @@
 
 App de noticias utilizando:
 
-- [a](https://newsapi.org/)
+- [Api de noticias - newsapi](https://newsapi.org/)
 
 
