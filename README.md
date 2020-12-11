@@ -2,5 +2,5 @@
 
 App de noticias utilizando:
 ```
-(https://newsapi.org/)
+(a)[https://newsapi.org/]
 ```
